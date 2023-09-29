@@ -25,7 +25,7 @@ Data Preprocessing: Typically, MNIST images need to be normalized to scale the p
 
 Google Colab (T4GPU)
 
-Running time: about five minutes 
+Running time: about 7 minutes 
 
 # 4.Parameter settings
 
